@@ -10,7 +10,7 @@ import javax.validation.constraints.*;
 @ToString
 
 public class UserDTO {
-// this id is for when we create new user it will map with that id
+
     private Long id;
 
     @NotBlank
